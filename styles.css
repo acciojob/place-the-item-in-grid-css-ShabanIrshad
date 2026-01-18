@@ -1,9 +1,9 @@
 .holder{
 	display:grid;
-	width:400px;
+	width:200px;
 	border:1px solid black;
-	grid-template-columns:repeat(2,200px);
-	grid-template-rows:repeat(2,200px);
+	grid-template-columns:100px 100px;
+	grid-template-rows:100px 100px;
 }
 .item{
 	border:1px solid red;
